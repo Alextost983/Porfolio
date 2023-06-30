@@ -1,5 +1,5 @@
 ## Исследование рынка недвижимости в Санкт-Петербурге
-market_real_SPB-main/market_real_SPB-main
+[ipynb](https://github.com/Alextost983/Porfolio/blob/main/market_real_SPB-main/market_real_SPB-main/market_real_SPB.ipynb)
 ## Описание
 ## Инструменты и навыки 
  - Phyton
