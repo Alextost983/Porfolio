@@ -4,7 +4,9 @@
 
  |№  |Наименование проекта  |                  Описание  |                                                     Стек 
 |----| ------------------- | -------------------- | ------------
-|1.  |[Исследование рынка недвижимости в Санкт-Петербурге](market_real_SPB-main/market_real_SPB-main) | `так жеhhhhhhhhhhhhhhhhhhh` | **клевоhhhhhhhhhhhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj**
+|1.  |[Исследование рынка недвижимости в Санкт-Петербурге](market_real_SPB-main/market_real_SPB-main) | `В распоряжении данные сервиса Яндекс Недвижимость — архив объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах. Индивидуальный проект. Задача — выполнить предобработку данных и изучить их, чтобы найти интересные особенности и зависимости, которые существуют на рынке недвижимости.` | **Phyton
+Pandas
+MatPlotLib.pyplot**
 |2.  |[Исследование рынка недвижимости в Санкт-Петербурге](market_real_SPB-main/market_real_SPB-main) | `так жеhhhhhhhhhhhhhhhhhhh` | **клевоhhhhhhhhhhhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj**
 |3.  |[Исследование рынка недвижимости в Санкт-Петербурге](market_real_SPB-main/market_real_SPB-main) | `так жеhhhhhhhhhhhhhhhhhhh` | **клевоhhhhhhhhhhhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj**
 |4.  |[Исследование рынка недвижимости в Санкт-Петербурге](market_real_SPB-main/market_real_SPB-main) | `так жеhhhhhhhhhhhhhhhhhhh` | **клевоhhhhhhhhhhhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj**
