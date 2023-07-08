@@ -14,5 +14,6 @@
 |8.  |[Исследование надежности заемщиков](reliability_of_borrowers1-main/reliability_of_borrowers1-main) | `Анализ данных клиентов банка, с целью определить портрет надежного заемщика` | **Phyton, pandas**
 |9.  |[Исследование надежности заемщиков банка. часть 2](reliability_of_borrowers2-main/reliability_of_borrowers2-main) | `Анализ данных клиентов банка, с целью определить портрет надежного заемщика` | **Phyton, pandas**
 |10. |[Рекомендации тарифов мобильного оператора](tarif_mobi_recomend-main/tarif_mobi_recomend-main) | `Оператор мобильной связи «Мегалайн» выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».` | **Phyton, pandas, numpy, seaborn, sklearn.linear_model, sklearn.model_selection, sklearn.metrics, sklearn.tree, sklearn.ensemble, sklearn.linear_model, sklearn.metrics**
+|11.  |[Защита данных клиентов страховой компании](mobile_tarifs-main/mobile_tarifs-main) | `Необходмо разработать модель шифрования данных клиента страховой компании, чтобы по ним было трудно восстановить информацию. Основа построения на проверке работоспособности и адекватности обратной матрыцы` | **Phyton, pandas, numpy, seaborn, scipy**
 
 
