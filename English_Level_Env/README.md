@@ -1,5 +1,5 @@
 ## Предсказание уровня английского в фильмах по субтитрам
-   [ipynb](https://github.com/Alextost983/Porfolio/blob/main/Save_data_client/Save_client_data.ipynb)
+   [ipynb](https://github.com/Alextost983/Porfolio/blob/main/English_Level_Env/level_of_eng.ipynb)
 ## Описание
   Задача - Разработать модель машинного обучения, которая бы могла предсказать сложность английского в текстах исходя из загруженных субтитров.
  - Phyton
